@@ -1,4 +1,4 @@
-Project Description: Customer Churn Analysis
+Project Description: Customer Churn Analysis in EXCEL
 
 This project analyzes customer churn patterns to identify key factors influencing retention and attrition. Using a dataset of 6,687 customers, including 1,796 churned users (~26.86% churn rate), the analysis examines demographic, usage, and subscription factors.
 
